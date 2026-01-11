@@ -1,0 +1,61 @@
+# Báo cáo tiến độ – Tuần 1
+Tuần 1 
+## Nội dung thực hiện
+- Khảo sát nhu cầu thực tế về dịch vụ sửa chữa nhà cửa.
+- Phân tích bài toán và xác định mục tiêu của đồ án.
+- Xác định đối tượng sử dụng hệ thống gồm khách hàng, nhân viên sửa chữa và quản trị viên.
+- Thu thập tài liệu tham khảo liên quan đến website đặt dịch vụ.
+## Kết quả đạt được
+- Hoàn thiện phần Mở đầu và Tổng quan đề tài.
+- Xác định phạm vi và hướng tiếp cận của đồ án.
+## Kế hoạch tuần tiếp theo
+- Phân tích yêu cầu hệ thống.
+- Xây dựng danh sách chức năng chính.
+# Báo cáo tiến độ – Tuần 2
+## Nội dung thực hiện
+- Phân tích yêu cầu chức năng cho khách hàng và quản trị viên.
+- Phân tích yêu cầu phi chức năng của hệ thống.
+- Xây dựng sơ đồ Use Case cho các đối tượng sử dụng.
+- Thiết kế sơ bộ mô hình hệ thống.
+## Kết quả đạt được
+- Hoàn thành các bảng yêu cầu chức năng và phi chức năng.
+- Hoàn thiện sơ đồ Use Case cho khách hàng, nhân viên sửa chữa và quản trị viên.
+## Kế hoạch tuần tiếp theo
+- Thiết kế cơ sở dữ liệu.
+- Xây dựng mô hình các bảng dữ liệu.
+# Báo cáo tiến độ – Tuần 3
+## Nội dung thực hiện
+- Thiết kế cơ sở dữ liệu cho hệ thống.
+- Xây dựng các bảng: Người dùng, Dịch vụ, Đơn đặt dịch vụ, Đánh giá.
+- Thiết lập mối quan hệ giữa các bảng dữ liệu.
+- Tạo cấu trúc project ASP.NET theo mô hình MVC.
+## Kết quả đạt được
+- Hoàn thiện sơ đồ và cấu trúc cơ sở dữ liệu.
+- Tạo project ASP.NET và cấu trúc thư mục cơ bản.
+## Kế hoạch tuần tiếp theo
+- Cài đặt kết nối cơ sở dữ liệu.
+- Xây dựng các chức năng chính của hệ thống.
+# Báo cáo tiến độ – Tuần 4
+## Nội dung thực hiện
+- Cài đặt kết nối cơ sở dữ liệu SQL Server.
+- Xây dựng chức năng đăng ký, đăng nhập và phân quyền người dùng.
+- Xây dựng chức năng đặt dịch vụ sửa chữa và quản lý đơn đặt.
+- Thiết kế giao diện người dùng bằng HTML, CSS, Bootstrap.
+## Kết quả đạt được
+- Website hoạt động với các chức năng cơ bản.
+- Người dùng có thể đăng nhập và đặt dịch vụ.
+## Kế hoạch tuần tiếp theo
+- Kiểm thử hệ thống.
+- Hoàn thiện báo cáo đồ án.
+# Báo cáo tiến độ – Tuần 5
+## Nội dung thực hiện
+- Kiểm thử chức năng của hệ thống.
+- Kiểm thử giao diện và trải nghiệm người dùng.
+- Sửa lỗi phát sinh trong quá trình kiểm thử.
+- Hoàn thiện nội dung báo cáo đồ án.
+## Kết quả đạt được
+- Hệ thống hoạt động ổn định.
+- Hoàn thiện đầy đủ các chức năng theo yêu cầu đề tài.
+- Hoàn thành báo cáo đồ án.
+## Kết luận
+Đồ án đã được triển khai đúng tiến độ, đáp ứng các yêu cầu đề ra ban đầu.
